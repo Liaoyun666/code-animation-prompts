@@ -8,4 +8,6 @@
 - [mg-styles-15](../assets/library/第三方许可/mg-styles-15_LICENSE.txt)：MIT，Copyright (c) 2026 Vincentwei1021。
 - [code-video](../assets/library/第三方许可/code-video_LICENSE.txt)：MIT，Copyright (c) 2026 Bae-ChangHyun。
 
-不同来源的内容保留各自许可。免费分享约定不改写第三方 MIT 文本；整个合集不能简单标成全部 MIT。原包未提供可核实的原整理者主页，因此本仓库不补写猜测的身份或链接。电影、艺术风格与示例名称是参考描述，不代表官方合作或背书。
+感谢原素材整理者——哔哩哔哩 [**俯仰观照**](https://space.bilibili.com/3690990015613855/?spm_id_from=333.788.upinfo.detail.click) 的资源分享。
+
+不同来源的内容保留各自许可。免费分享约定不改写第三方 MIT 文本；整个合集不能简单标成全部 MIT。电影、艺术风格与示例名称是参考描述，不代表官方合作或背书。

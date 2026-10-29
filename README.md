@@ -221,7 +221,9 @@ code-animation-prompts/
 
 ## 致谢与免费分享约定
 
-感谢原素材整理者与 **LemoLab（Lemo-Opuscar）**、**Vincentwei1021（mg-styles-15）**、**Bae-ChangHyun（code-video）**。XiaoyeCodes 在原素材基础上增加技能封装、工具脚本和项目文档；原始素材与许可完整保留。
+感谢原素材整理者——哔哩哔哩 [**俯仰观照**](https://space.bilibili.com/3690990015613855/?spm_id_from=333.788.upinfo.detail.click) 的资源分享。
+
+同时感谢 **LemoLab（Lemo-Opuscar）**、**Vincentwei1021（mg-styles-15）**、**Bae-ChangHyun（code-video）**。XiaoyeCodes 在原素材基础上增加技能封装、工具脚本和项目文档；原始素材与许可完整保留。
 
 **免费使用，免费分享；请勿把这个合集包装成付费课程、付费 skills 或其他收费内容出售。** 第三方内容继续适用其各自许可，详见 [来源与许可](LICENSE.md)。本仓库没有把所有素材重新声明为 MIT。
 
