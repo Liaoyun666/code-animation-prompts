@@ -1,0 +1,18 @@
+name: Validate library and skill
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  validate:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/validate_repo.py
+      - run: python skills/code-animation-prompts/scripts/styles.py search 水墨 --limit 3
+      - run: python skills/code-animation-prompts/scripts/styles.py show B3
